@@ -1,0 +1,10 @@
+<h1>USER LOGIN</h1>
+<form id="signup" name="signup">
+	<label for="email">Email id</label>
+	<input class="text" name="email" type="text"/>
+	<label for="username">username</label>
+	<input class="text username" name="username" type="text"/>
+	<input class="btn" type="submit" value="sign-up"/>
+         
+</form>
+<img src="http://2.bp.blogspot.com/-PvTvQXE_EqY/UJUoC0S_glI/AAAAAAAANRU/MejdTCp7j58/s1600/White+Desktop+Wallpapers+and+Backgrounds+3.jpg width="800" height="100"  ">
